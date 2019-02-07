@@ -1,1 +1,1 @@
-print ("this is a function")
+print ("this is a funtion")
